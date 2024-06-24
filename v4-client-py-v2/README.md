@@ -2,6 +2,10 @@
 
 # Python Client (async) for dYdX (v4 API)
 
+## Install from ubuntu 20.04 py3.8
+
+> pip install git+https://github.com/pymongo/v4-clients#subdirectory=v4-client-py-v2
+
 ## Quick links
 
 <div align="center">
