@@ -6,7 +6,7 @@ authors = ["Piotr Piwoński <piwonskp@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.8"
 v4-proto = "^4.0.1"
 httpx = "^0.27.0"
 websocket-client = "^1.7.0"
